@@ -2,6 +2,8 @@
 
 I'm a teenage developer who builds things I actually use, and I'm learning in public.
 
+🌐 **Portfolio: [abhra71.github.io](https://abhra71.github.io)**
+
 ## ♞ Knightwise, my main project
 
 **A free, open-source chess coach for chess.com players.** It checks every move of your games with Stockfish, finds the
@@ -24,4 +26,6 @@ on-device voice (Kokoro) · optional AI explanations (Groq / Gemini)
 Cybersecurity (pentesting) · #LearningInPublic · #100DaysOfCode
 
 ## 📫 Find me
-X: [@Abhra71](https://x.com/Abhra71)
+🌐 Portfolio: [abhra71.github.io](https://abhra71.github.io)  
+X: [@Abhra71](https://x.com/Abhra71)  
+Knightwise on Instagram: [@knightwise.chess](https://www.instagram.com/knightwise.chess/)
