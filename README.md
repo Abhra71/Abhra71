@@ -13,6 +13,7 @@ went wrong**. Two coaches, Maya and Viktor, explain it in plain words, even by v
 [![Get it free on the Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Get_it_free-2ea44f?logo=microsoftstore&logoColor=white)](https://www.microsoft.com/store/apps/9NKLGS6K72J2?cid=github)
 [![Website](https://img.shields.io/badge/website-knightwise-555)](https://abhra71.github.io/ChessCoach/)
 [![Code](https://img.shields.io/badge/code-ChessCoach-181717?logo=github)](https://github.com/Abhra71/ChessCoach)
+[![Knightwise on Instagram](https://img.shields.io/badge/Knightwise_on_Instagram-@knightwise.chess-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/knightwise.chess/)
 
 **Built with:** Python · Stockfish 19 · Maia-3 (a human-move model, run in numpy) · a Chrome/Edge extension (MV3) ·
 on-device voice (Kokoro) · optional AI explanations (Groq / Gemini)
@@ -27,5 +28,4 @@ Cybersecurity (pentesting) · #LearningInPublic · #100DaysOfCode
 
 ## 📫 Find me
 🌐 Portfolio: [abhra71.github.io](https://abhra71.github.io)  
-X: [@Abhra71](https://x.com/Abhra71)  
-Knightwise on Instagram: [@knightwise.chess](https://www.instagram.com/knightwise.chess/)
+X: [@Abhra71](https://x.com/Abhra71)
