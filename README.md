@@ -28,4 +28,4 @@ Cybersecurity (pentesting) · #LearningInPublic · #100DaysOfCode
 ## 📫 Find me
 🌐 Portfolio: [abhra71.github.io](https://abhra71.github.io)  
 X: [@Abhra71](https://x.com/Abhra71)  
-Instagram: [@abhra71.dev](https://www.instagram.com/abhra71.dev/) (updates on all my apps)
+Instagram: [@abhra71_dev](https://www.instagram.com/abhra71_dev/) (updates on all my apps)
